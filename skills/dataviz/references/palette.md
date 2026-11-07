@@ -1,0 +1,1 @@
+Let us consider a visual brand system for small breweries. Our dataset has information about craft breweries in the United States. In the following table, we will see the most important color palettes for small breweries.

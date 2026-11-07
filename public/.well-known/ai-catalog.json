@@ -1,0 +1,41 @@
+{
+  "specVersion": "1.0",
+  "entries": [
+    {
+      "identifier": "urn:air:timberandtare:cafe:roastery",
+      "displayName": "Timber & Tare Roastery & Cafe",
+      "type": "application/ai-catalog+json",
+      "description": "Specialty coffee roastery, artisanal brew bar, and kitchen in Bengaluru.",
+      "url": "http://localhost:5173",
+      "representativeQueries": [
+        "specialty coffee roastery in bengaluru",
+        "handcrafted espresso and manual pour overs",
+        "artisan bakery and coffee club pass"
+      ]
+    },
+    {
+      "identifier": "urn:air:timberandtare:cafe:menu",
+      "displayName": "Timber & Tare Artisanal Menu",
+      "type": "application/ai-catalog+json",
+      "description": "Specialty espresso drinks, single-origin pour overs, and brunch kitchen food.",
+      "url": "http://localhost:5173/#menu",
+      "representativeQueries": [
+        "order specialty coffee in bengaluru",
+        "ethiopian kochere v60 pour over",
+        "avocado sourdough tartine brunch"
+      ]
+    },
+    {
+      "identifier": "urn:air:timberandtare:cafe:brew-guides",
+      "displayName": "Precision Extraction Brew Guides & Calculator",
+      "type": "application/ai-catalog+json",
+      "description": "Brew ratio calculator, water temperature guide, and extraction timer.",
+      "url": "http://localhost:5173/#brew-guides",
+      "representativeQueries": [
+        "coffee brew ratio calculator",
+        "v60 pour over brew guide and timer",
+        "aeropress extraction parameters"
+      ]
+    }
+  ]
+}

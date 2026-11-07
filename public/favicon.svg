@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <!-- Dark Roasted Espresso Circular Seal -->
+  <circle cx="32" cy="32" r="31" fill="#241e1b" stroke="#3d342f" stroke-width="2" />
+  
+  <!-- Subtle Vintage Inner Border Ring -->
+  <circle cx="32" cy="32" r="27" stroke="#3d342f" stroke-width="0.8" stroke-dasharray="2 1.5" />
+
+  <!-- Top Tare Gauge Arc & Needle -->
+  <path d="M22 17 C27 14 37 14 42 17" stroke="#c5832b" stroke-width="1.6" stroke-linecap="round" fill="none" />
+  <line x1="32" y1="12" x2="32" y2="16.5" stroke="#c5832b" stroke-width="1.8" stroke-linecap="round" />
+
+  <!-- T&T Monogram (Handcrafted Vintage Typography) -->
+  <g font-family="Georgia, serif" font-weight="900" text-anchor="middle" dominant-baseline="central">
+    <!-- Left T -->
+    <text x="21" y="33" font-size="20" fill="#c5832b" letter-spacing="-0.5">T</text>
+    <!-- Center & -->
+    <text x="32" y="33" font-size="14" fill="#c5832b" opacity="0.95" font-style="italic">&amp;</text>
+    <!-- Right T -->
+    <text x="43" y="33" font-size="20" fill="#c5832b" letter-spacing="-0.5">T</text>
+  </g>
+
+  <!-- Bottom Timber Tare Cradle Arc -->
+  <path d="M22 47 C27 50 37 50 42 47" stroke="#c5832b" stroke-width="1.6" stroke-linecap="round" fill="none" />
+  <line x1="32" y1="47.5" x2="32" y2="52" stroke="#c5832b" stroke-width="1.8" stroke-linecap="round" />
+</svg>

@@ -1,0 +1,20 @@
+# Timber & Tare Specialty Coffee Roastery & Artisanal Kitchen
+
+> Handcrafted double espressos, slow-drip cold coffee, manual pour-overs, flaky French bakery, and artisan kitchen food in Bengaluru.
+
+Timber & Tare is a specialty roastery and kitchen operating in Bengaluru (42 Arabica Lane). Every lot is roasted in small batches to an SCA 86+ cupping standard and pulled fresh to order.
+
+## Core Navigation & Resources
+
+- [Artisanal Menu & Cafe Catalog](http://localhost:5173/#menu): Full coffee, tea, cold brew, and kitchen food menu with prices and ordering options.
+- [Origins & Sourcing](http://localhost:5173/#origins): Direct-trade estate partnerships, elevation data, and harvest transparency across Karnataka, Ethiopia, and Panama.
+- [Brew Guides & Extraction Calculator](http://localhost:5173/#brew-guides): Precision extraction guides, ratio calculator, water temperature targets, and interactive stopwatch timer.
+- [Tare Rewards & Bean Bank](http://localhost:5173/#rewards): 10-cup digital loyalty punchcard and Bean rewards program with tier privileges.
+- [Daily Coffee Pass Subscription](http://localhost:5173/#subscription): Monthly weekday and daily unlimited barista coffee subscriptions.
+
+## Cafe Details
+
+- Location: 42 Arabica Lane, Bengaluru 560001
+- Operating Hours: Mon-Sun 7:30 AM - 7:00 PM
+- Contact: hello@timberandtare.cafe | +91 (80) 4567-8900
+
